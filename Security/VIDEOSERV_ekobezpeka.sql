@@ -1,0 +1,3 @@
+CREATE USER [VIDEOSERV\ekobezpeka] FOR LOGIN [VIDEOSERV\ekobezpeka];
+GO
+

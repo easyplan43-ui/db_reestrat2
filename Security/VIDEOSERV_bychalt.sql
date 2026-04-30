@@ -1,0 +1,3 @@
+CREATE USER [VIDEOSERV\bychalt] FOR LOGIN [VIDEOSERV\bychalt];
+GO
+

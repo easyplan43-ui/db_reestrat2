@@ -1,0 +1,5 @@
+c:\Users\nikolay.lavrov.VIDEOSERV\Documents\GitHub\db_reestrat2\bin\Debug\db_reestrat2.dacpac
+c:\Users\nikolay.lavrov.VIDEOSERV\Documents\GitHub\db_reestrat2\obj\Debug\Model.xml
+c:\Users\nikolay.lavrov.VIDEOSERV\Documents\GitHub\db_reestrat2\obj\Debug\refactor.xml
+c:\Users\nikolay.lavrov.VIDEOSERV\Documents\GitHub\db_reestrat2\obj\Debug\postdeploy.sql
+c:\Users\nikolay.lavrov.VIDEOSERV\Documents\GitHub\db_reestrat2\obj\Debug\predeploy.sql

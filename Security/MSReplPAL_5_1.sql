@@ -1,0 +1,4 @@
+CREATE ROLE [MSReplPAL_5_1]
+    AUTHORIZATION [dbo];
+GO
+

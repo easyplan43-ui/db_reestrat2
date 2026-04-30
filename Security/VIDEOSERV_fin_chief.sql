@@ -1,0 +1,3 @@
+CREATE USER [VIDEOSERV\fin_chief] FOR LOGIN [VIDEOSERV\fin_chief];
+GO
+

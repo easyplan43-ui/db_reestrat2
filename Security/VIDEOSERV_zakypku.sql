@@ -1,0 +1,3 @@
+CREATE USER [VIDEOSERV\zakypku] FOR LOGIN [VIDEOSERV\zakypku];
+GO
+

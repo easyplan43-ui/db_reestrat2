@@ -1,0 +1,3 @@
+CREATE USER [VIDEOSERV\gr_vpn_serv01] FOR LOGIN [VIDEOSERV\gr_vpn_serv01];
+GO
+

@@ -1,0 +1,3 @@
+CREATE USER [VIDEOSERV\prodazi] FOR LOGIN [VIDEOSERV\prodazi];
+GO
+
