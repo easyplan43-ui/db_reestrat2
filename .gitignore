@@ -1,0 +1,24 @@
+# --- SQL Database Project artifacts ---
+# Ігноруємо папки, куди VS Code збирає проєкт ( dacpac файли та інше)
+bin/
+obj/
+
+# --- MSBuild & SQL tools ---
+*.jfm
+*.dacpac
+*.dll
+*.pdb
+
+# --- Visual Studio Code settings ---
+# Ігноруємо локальні налаштування редактора (опціонально)
+.vscode/
+*.user
+
+# --- OS generated files ---
+# Системні файли Windows / Mac
+Thumbs.db
+.DS_Store
+
+# --- Git log / Temporary files ---
+*.log
+*.tmp
